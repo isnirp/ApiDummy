@@ -1,0 +1,30 @@
+[
+  {
+    "studentId": 1001,
+    "courseId": "Maths001"
+  },
+  {
+    "studentId": 1001,
+    "courseId": "Cs001"
+  },
+  {
+    "studentId": 1002,
+    "courseId": "Maths001"
+  },
+  {
+    "studentId": 1003,
+    "courseId": "Maths001"
+  },
+  {
+    "studentId": 1004,
+    "courseId": "Cs003"
+  },
+  {
+    "studentId": 1005,
+    "courseId": "Lang001"
+  },
+  {
+    "studentId": 1002,
+    "courseId": "Lang002"
+  }
+]

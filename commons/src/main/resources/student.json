@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1000,
+    "name": "Prince",
+    "age": 30,
+    "courses": [
+      {
+        "courseId": "Cs001",
+        "title": "Devops for dummies",
+        "description": "Introduction to Devops",
+        "price": 30.00,
+        "duration": 3600
+      },
+      {
+        "courseId": "Lang002",
+        "title": "Deutsch",
+        "description": "A1 Deustch",
+        "price": 9.99,
+        "duration": 3600
+      },
+      {
+        "courseId": "Lang001",
+        "title": "French",
+        "description": "A1 French",
+        "price": 9.99,
+        "duration": 3600
+      }
+    ]
+  },
+  {
+    "id": 1001,
+    "name": "John",
+    "age": 30,
+    "courses": [
+      {
+        "courseId": "Cs001",
+        "title": "Devops for dummies",
+        "description": "Introduction to Devops",
+        "price": 30.00,
+        "duration": 3600
+      },
+      {
+        "courseId": "Cs003",
+        "title": "Expert systems",
+        "description": "A deep dive into systems",
+        "price": 23.50,
+        "duration": 3600
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "Rose",
+    "age": 25,
+    "courses": [
+      {
+        "courseId": "Maths001",
+        "title": "Maths for dummies",
+        "description": "Fundamental mathematics",
+        "price": 14.99,
+        "duration": 1800
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "Sue",
+    "age": 18,
+    "courses": [
+      {
+        "courseId": "Maths001",
+        "title": "Maths for dummies",
+        "description": "Fundamental mathematics",
+        "price": 14.99,
+        "duration": 1800
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "Kwabs",
+    "age": 19,
+    "courses": [
+      {
+        "courseId": "Maths001",
+        "title": "Maths for dummies",
+        "description": "Fundamental mathematics",
+        "price": 14.99,
+        "duration": 1800
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "Patrick",
+    "age": 34,
+    "courses": [
+      {
+        "courseId": "Cs003",
+        "title": "Expert systems",
+        "description": "A deep dive into systems",
+        "price": 23.50,
+        "duration": 3600
+      }
+    ]
+  }
+]
